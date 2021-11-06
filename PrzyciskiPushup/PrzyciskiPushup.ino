@@ -59,6 +59,5 @@ void loop()
         case 5: analogWrite(pinZIELONY, 255);
             break;
         }
-
     }
 }
