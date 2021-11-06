@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sketch1", "Sketch1\Sketch1.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mojBlink", "Sketch1\Sketch1.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RGBLosowanie", "RGBLosowanie\RGBLosowanie.vcxproj", "{0A232BA9-3174-42FE-A60E-9C94B148E79D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RGBPetla", "RGBPetla\RGBPetla.vcxproj", "{CFFEA475-61BB-446F-B86D-5A4DDBC15520}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrzyciskiPushup", "PrzyciskiPushup\PrzyciskiPushup.vcxproj", "{D4F0EAA5-36A3-460A-AE17-D682C18D6919}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JoystickLED", "JoystickLED\JoystickLED.vcxproj", "{FDBCD8A1-EDAB-49B9-AA7C-2C82EA5ADF17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wyswietlacz_Joystick_LED", "Wyswietlacz_Joystick_LED\Wyswietlacz_Joystick_LED.vcxproj", "{33D10462-70D1-4759-8B80-970435D86598}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
 		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
 		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{0A232BA9-3174-42FE-A60E-9C94B148E79D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0A232BA9-3174-42FE-A60E-9C94B148E79D}.Debug|x86.Build.0 = Debug|Win32
+		{0A232BA9-3174-42FE-A60E-9C94B148E79D}.Release|x86.ActiveCfg = Release|Win32
+		{0A232BA9-3174-42FE-A60E-9C94B148E79D}.Release|x86.Build.0 = Release|Win32
+		{CFFEA475-61BB-446F-B86D-5A4DDBC15520}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFFEA475-61BB-446F-B86D-5A4DDBC15520}.Debug|x86.Build.0 = Debug|Win32
+		{CFFEA475-61BB-446F-B86D-5A4DDBC15520}.Release|x86.ActiveCfg = Release|Win32
+		{CFFEA475-61BB-446F-B86D-5A4DDBC15520}.Release|x86.Build.0 = Release|Win32
+		{D4F0EAA5-36A3-460A-AE17-D682C18D6919}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4F0EAA5-36A3-460A-AE17-D682C18D6919}.Debug|x86.Build.0 = Debug|Win32
+		{D4F0EAA5-36A3-460A-AE17-D682C18D6919}.Release|x86.ActiveCfg = Release|Win32
+		{D4F0EAA5-36A3-460A-AE17-D682C18D6919}.Release|x86.Build.0 = Release|Win32
+		{FDBCD8A1-EDAB-49B9-AA7C-2C82EA5ADF17}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDBCD8A1-EDAB-49B9-AA7C-2C82EA5ADF17}.Debug|x86.Build.0 = Debug|Win32
+		{FDBCD8A1-EDAB-49B9-AA7C-2C82EA5ADF17}.Release|x86.ActiveCfg = Release|Win32
+		{FDBCD8A1-EDAB-49B9-AA7C-2C82EA5ADF17}.Release|x86.Build.0 = Release|Win32
+		{33D10462-70D1-4759-8B80-970435D86598}.Debug|x86.ActiveCfg = Debug|Win32
+		{33D10462-70D1-4759-8B80-970435D86598}.Debug|x86.Build.0 = Debug|Win32
+		{33D10462-70D1-4759-8B80-970435D86598}.Release|x86.ActiveCfg = Release|Win32
+		{33D10462-70D1-4759-8B80-970435D86598}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
