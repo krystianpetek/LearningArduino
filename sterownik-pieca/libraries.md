@@ -1,0 +1,4 @@
+DallasTemperature
+IRremote
+LiquidCrystal_12C
+OneWire
